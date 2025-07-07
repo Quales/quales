@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a dashboard for my future company (private repo)
+- 🔭 I’m currently working on a modded minecraft server <a href="https://createhive.org">Createhive</a>
 - 🌱 I’m currently learning Unreal Engine 5
 - 📫 How to reach me: <a href="https://quales.me">My portfolio</a> with a contact page at bottom.
 
