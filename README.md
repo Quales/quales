@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a modded minecraft server <a href="https://createhive.org">Createhive</a>
-- 🌱 I’m currently learning Unreal Engine 5
+- 🔭 I’m currently working on custom nodes for n8n, you can see them here : [https://www.npmjs.com/~quales](https://www.npmjs.com/~quales)
+- 🌱 I’m currently playing with n8n
 - 📫 How to reach me: <a href="https://quales.me">My portfolio</a> with a contact page at bottom.
 
 ## 🌟 Tools and languages I use daily
